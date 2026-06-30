@@ -438,3 +438,9 @@ footer p{
     transform:translateY(-5px);
 
 }
+.sold-btn{
+    background:#555;
+    color:white;
+    cursor:not-allowed;
+    opacity:0.8;
+}
